@@ -49,7 +49,7 @@ public:
 
 		cout << "\nStudent Details:" << endl;
 		cout << "Name: " << name << endl;
-		cout << "Hourly worked hours: " << hourly_pay << endl;
+		cout << "Hourly payrate: " << hourly_pay << endl;
 		cout << "Total worked hours: " << hours_worked << endl;
 		cout << "Total Earned Stipend per day: " << pay;
 	}
