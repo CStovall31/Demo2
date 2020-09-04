@@ -30,7 +30,7 @@ public:
 
 	void worker_pay() {
 
-		cout << "Working hours rate: ";
+		cout << "Payrate: ";
 		cin >> hourly_pay;
 	}
 
