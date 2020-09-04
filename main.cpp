@@ -47,7 +47,7 @@ public:
 
 	void display() {
 
-		cout << "\nStudent Details Below:" << endl;
+		cout << "\nStudent Details:" << endl;
 		cout << "Name: " << name << endl;
 		cout << "Hourly worked hours: " << hourly_pay << endl;
 		cout << "Total worked hours: " << hours_worked << endl;
